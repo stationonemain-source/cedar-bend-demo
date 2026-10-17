@@ -160,6 +160,7 @@ footer h2{color:#fff;font-size:18px;font-family:var(--font-body);font-weight:600
 footer ul{list-style:none;margin:0;padding:0}
 footer li{margin:6px 0}
 .legal{border-top:1px solid rgba(255,255,255,.18);margin-top:32px;padding-top:18px;font-size:14px;color:#c9d4cb}
+.credit{margin-top:14px;font-size:14px;color:#c9d4cb}
 @media print{.top,.demo,.alert,footer,.menu-btn{display:none}}
 
 @media (max-width:640px){table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}}
